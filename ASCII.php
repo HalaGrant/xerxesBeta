@@ -14,6 +14,7 @@
 * @author Hala
 
 */
+// test Hala @ 9-11 4:40
 header('Content-Disposition: attachment; filename="downloaded.xml"');
 
 $data = file_get_contents('hala.xml');
