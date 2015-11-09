@@ -1,0 +1,3432 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<BasicImport xmlns="http://www.uk.nds.com/SSR/XTI/Traffic/0010" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" utcOffset="+03:00" frameRate="25" xsi:schemaLocation="http://www.uk.nds.com/SSR/XTI/Traffic/0010 0010.xsd">
+<siServiceId>1734</siServiceId>
+<SiEventSchedule deleteStart="2015/09/27 00:00:00" deleteEnd="2015/10/01 23:59:59">
+	
+
+				<SiEvent>
+			<displayDateTime>2015/09/27 00:15:00</displayDateTime>
+			<activationDateTime>2015/09/27 00:15:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-186703368TrfK</siTrafficKey>
+			<detailKey>xpush-186703368DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Castle-Zahra</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Castle Zahra (2014)</eventName>	
+	<eventDescription>Serie, People, Drama (Turkey). Zahra is a 14 year old girl.  Despite being very successful in the school,  her father forced her to marry an old rich man for the sake of money.  She thus lives a miserable . . . Actor: Otmaca Dephrem, Orhan ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>زهرة القصر (2014)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (تركيا). يدمر والد زهرة ذات الرابعة عشر حياتها، و يحرمها من إستكمال دراستها على الرغم من . . . تمثيل: أتماكا ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 01:00:00</displayDateTime>
+			<activationDateTime>2015/09/27 01:00:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-186702288TrfK</siTrafficKey>
+			<detailKey>xpush-186702288DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Envy-Fire</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Envy Fire (2014)</eventName>	
+	<eventDescription>Serie, Romance, Hindi, Drama (India). Durga is a rich girl who falls in love with a young flirt named Churaya.  He uses his special techniques to attract more girls and later on it becomes as a hobby.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>لهيب الحقد (2014)</eventName>	
+	<eventDescription>مسلسل, رومانسي, هندي, دراما (الهند). دورجا فتاة ثرية تقع في غرام شوريا الشاب اللعوب الذي يتخد من جذب الفتيات هواية، لتتغير حياتهما ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 01:45:00</displayDateTime>
+			<activationDateTime>2015/09/27 01:45:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-186702360TrfK</siTrafficKey>
+			<detailKey>xpush-186702360DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Girls'-Necklace</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Girls' Necklace (2014)</eventName>	
+	<eventDescription>Serie, Drama, Women (Syria). Based on a true story in Damascus,  a father brings a necklace for his little beloved girl,  Set Al Sham,  but his wife advises him to distribute the necklace rings between all . . . Actor: Rasheed Aassaf, Mona ... </eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>طوق البنات (2014)</eventName>	
+	<eventDescription>مسلسل, دراما, المرأة (سوريا). من داخل دمشق القديمة، حيث تدور الأحداث حول الطوق الذى إشتراه والد الفتاة الصغيرة . . . تمثيل: رشيد عساف, ... </eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 02:30:00</displayDateTime>
+			<activationDateTime>2015/09/27 02:30:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-186702432TrfK</siTrafficKey>
+			<detailKey>xpush-186702432DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Nightmare</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Nightmare (2015)</eventName>	
+	<eventDescription>Serie, People, Drama (Egypt). A woman's son is murdered,  she decides to find the killer.  But her nightmares begin to hunt her as she finds that her son has a lot of enemies.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>الكابوس (2015)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (مصر). إمرأة يقتل ابنها في ظروف غامضة، وتقرر أن تبحث عن القاتل وتبدأ تلاحقها الكوابيس، لتكتشف أن ابنها كون . . .  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 03:15:00</displayDateTime>
+			<activationDateTime>2015/09/27 03:15:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-186704448TrfK</siTrafficKey>
+			<detailKey>xpush-186704448DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Echo-of-the-Stadiums</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Echo of the Stadiums (2011)</eventName>	
+	<eventDescription>Show, Sport magazine, Debate (Saudi Arabia). Famous sports magazine covering latest football games around the Arab region and in the world. Host: Mostafa Al Agha.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>صدى الملاعب (2011)</eventName>	
+	<eventDescription>برنامج, مجلة رياضية, حوار/نقاش (المملكة العربية السعودية). تغطية لكافة الأخبار الرياضية في الشرق الأوسط و . . . تقديم: مصطفى الأغا.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 04:15:00</displayDateTime>
+			<activationDateTime>2015/09/27 04:15:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-186703440TrfK</siTrafficKey>
+			<detailKey>xpush-186703440DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Great-Mayor</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Great Mayor (2015)</eventName>	
+	<eventDescription>Serie, Comedy, People, Comedy (Egypt). Following the previous four parts,  AlKabir is shocked when he knows that he has a new brother from Sudan putting him in many comedian situations.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>5الكبير قوي (2015)</eventName>	
+	<eventDescription>مسلسل, كوميدي, إجتماعي, كوميدي (مصر). استكمالا للأجزاءالسابقة، يتفاجأ الكبير قوي بظهور أخ أخر له بجانب حزلئوم، و جوني، وهو سوداني . . .  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 04:45:00</displayDateTime>
+			<activationDateTime>2015/09/27 04:45:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-186703512TrfK</siTrafficKey>
+			<detailKey>xpush-186703512DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Envy-Fire</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Envy Fire (2014)</eventName>	
+	<eventDescription>Serie, Romance, Hindi, Drama (India). Durga is a rich girl who falls in love with a young flirt named Churaya.  He uses his special techniques to attract more girls and later on it becomes as a hobby.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>لهيب الحقد (2014)</eventName>	
+	<eventDescription>مسلسل, رومانسي, هندي, دراما (الهند). دورجا فتاة ثرية تقع في غرام شوريا الشاب اللعوب الذي يتخد من جذب الفتيات هواية، لتتغير حياتهما ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 05:30:00</displayDateTime>
+			<activationDateTime>2015/09/27 05:30:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-186703584TrfK</siTrafficKey>
+			<detailKey>xpush-186703584DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Dairies-Of-A-</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Dairies Of A Very Frustrated Wife (2015)</eventName>	
+	<eventDescription>Serie, Comedy, Family, Comedy (Egypt). A very hard-working journalist works with her husband at the same place.  After Jan 25 revolution,  an intellectual conflict arises between them because of the difference of their points of view.  . . ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>يوميات زوجة مفروسة أوي (2015)</eventName>	
+	<eventDescription>مسلسل, كوميدي, عائلي, كوميدي (مصر). صحفية مجتهدة تعمل بنفس الجريدة التى يعمل بها زوجها، وينشأ بينهما صراع فكري بسبب مواقفهما ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 06:15:00</displayDateTime>
+			<activationDateTime>2015/09/27 06:15:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-186704376TrfK</siTrafficKey>
+			<detailKey>xpush-186704376DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Castle-Zahra</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Castle Zahra (2014)</eventName>	
+	<eventDescription>Serie, People, Drama (Turkey). Zahra is a 14 year old girl.  Despite being very successful in the school,  her father forced her to marry an old rich man for the sake of money.  She thus lives a miserable . . . Actor: Otmaca Dephrem, Orhan ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>زهرة القصر (2014)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (تركيا). يدمر والد زهرة ذات الرابعة عشر حياتها، و يحرمها من إستكمال دراستها على الرغم من . . . تمثيل: أتماكا ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 07:00:00</displayDateTime>
+			<activationDateTime>2015/09/27 07:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-186702504TrfK</siTrafficKey>
+			<detailKey>xpush-186702504DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Sultan's-Cook</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Sultan's Cook (2012)</eventName>	
+	<eventDescription>Serie, Romance, Drama (Turkey). A love story blooms between a young cook and a beautiful girl within the Ottoman Palace,  reflecting the lives of both the Imperial Palace and that of the common folk who . . . Actor: Bashak Barlak, Anil ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>طباخ السلطان (2012)</eventName>	
+	<eventDescription>مسلسل, رومانسي, دراما (تركيا). قصة الطباخ الشاب أحمد وغرامه بالحسناء ديلروبا التي تدور في كواليس القصر السلطاني.  . . . تمثيل: بشاك ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 08:00:00</displayDateTime>
+			<activationDateTime>2015/09/27 08:00:00</activationDateTime>
+			
+			
+<displayDuration>02:00:00</displayDuration>
+			<siTrafficKey>xpush-186702576TrfK</siTrafficKey>
+			<detailKey>xpush-186702576DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Good-Morning-Arabs</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Good Morning Arabs (2011)</eventName>	
+	<eventDescription>Show, Morning Show, Talk Show (Saudi Arabia). Discussing different topics and issues,  which concern the Arab community,   especially women.  It also keeps you updated with the latest inventions and the . . . Host: Lojain Omran.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>صباح الخير يا عرب (2011)</eventName>	
+	<eventDescription>برنامج, برنامج صباحي, برنامج حواري (المملكة العربية السعودية). تغطية عامة لكافة إهتمامات الشارع العربي على . . . تقديم: لجين عمران.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 10:00:00</displayDateTime>
+			<activationDateTime>2015/09/27 10:00:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-186702648TrfK</siTrafficKey>
+			<detailKey>xpush-186702648DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Great-Mayor</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Great Mayor (2015)</eventName>	
+	<eventDescription>Serie, Comedy, People, Comedy (Egypt). Following the previous four parts,  AlKabir is shocked when he knows that he has a new brother from Sudan putting him in many comedian situations.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>5الكبير قوي (2015)</eventName>	
+	<eventDescription>مسلسل, كوميدي, إجتماعي, كوميدي (مصر). استكمالا للأجزاءالسابقة، يتفاجأ الكبير قوي بظهور أخ أخر له بجانب حزلئوم، و جوني، وهو سوداني . . .  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 10:30:00</displayDateTime>
+			<activationDateTime>2015/09/27 10:30:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-186703656TrfK</siTrafficKey>
+			<detailKey>xpush-186703656DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>I-Want-To-Marry</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>I Want To Marry (2015)</eventName>	
+	<eventDescription>Show, Comedy, , Entertainment (Egypt). In a comic framework,  the bride sits in an interview with the who wants to marry her accompanied by his family.  A lot of funny pranks take place among them.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>عايز أتجوز (2015)</eventName>	
+	<eventDescription>برنامج, كوميدي, , ترفيه (مصر). في إطار كوميدي تجلس العروس في مقابلة مع أهل المتقدم بالزواج، فتحدث مقالب ضاحكة بين الجميع.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 11:00:00</displayDateTime>
+			<activationDateTime>2015/09/27 11:00:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-186702720TrfK</siTrafficKey>
+			<detailKey>xpush-186702720DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>WiFi</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>WiFi (2013)</eventName>	
+	<eventDescription>Serie, Comedy, Khaliji (Saudi Arabia). Separate episodes reviewing different issues related to Saudi society in a comic way and depending on imitating eminent characters,  in addition to funny songs. Host: Hia Alshoeby, Abd Allah Al Sanany ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>واي فاي (2013)</eventName>	
+	<eventDescription>مسلسل, كوميدي, خليجي (المملكة العربية السعودية). حلقات منفصلة تعالج عدة قضايا متعلقة بالمجتمع السعودي بشكل . . . تقديم: هيا الشعيبى, ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 11:30:00</displayDateTime>
+			<activationDateTime>2015/09/27 11:30:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-186703728TrfK</siTrafficKey>
+			<detailKey>xpush-186703728DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Envy-Fire</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Envy Fire (2014)</eventName>	
+	<eventDescription>Serie, Romance, Hindi, Drama (India). Durga is a rich girl who falls in love with a young flirt named Churaya.  He uses his special techniques to attract more girls and later on it becomes as a hobby.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>لهيب الحقد (2014)</eventName>	
+	<eventDescription>مسلسل, رومانسي, هندي, دراما (الهند). دورجا فتاة ثرية تقع في غرام شوريا الشاب اللعوب الذي يتخد من جذب الفتيات هواية، لتتغير حياتهما ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 12:15:00</displayDateTime>
+			<activationDateTime>2015/09/27 12:15:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-186703800TrfK</siTrafficKey>
+			<detailKey>xpush-186703800DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Nightmare</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Nightmare (2015)</eventName>	
+	<eventDescription>Serie, People, Drama (Egypt). A woman's son is murdered,  she decides to find the killer.  But her nightmares begin to hunt her as she finds that her son has a lot of enemies.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>الكابوس (2015)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (مصر). إمرأة يقتل ابنها في ظروف غامضة، وتقرر أن تبحث عن القاتل وتبدأ تلاحقها الكوابيس، لتكتشف أن ابنها كون . . .  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 13:00:00</displayDateTime>
+			<activationDateTime>2015/09/27 13:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-186702792TrfK</siTrafficKey>
+			<detailKey>xpush-186702792DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Sultan's-Cook</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Sultan's Cook (2012)</eventName>	
+	<eventDescription>Serie, Romance, Drama (Turkey). A love story blooms between a young cook and a beautiful girl within the Ottoman Palace,  reflecting the lives of both the Imperial Palace and that of the common folk who . . . Actor: Bashak Barlak, Anil ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>طباخ السلطان (2012)</eventName>	
+	<eventDescription>مسلسل, رومانسي, دراما (تركيا). قصة الطباخ الشاب أحمد وغرامه بالحسناء ديلروبا التي تدور في كواليس القصر السلطاني.  . . . تمثيل: بشاك ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 14:00:00</displayDateTime>
+			<activationDateTime>2015/09/27 14:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-186702864TrfK</siTrafficKey>
+			<detailKey>xpush-186702864DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Dairies-Of-A-</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Dairies Of A Very Frustrated Wife (2015)</eventName>	
+	<eventDescription>Serie, Comedy, Family, Comedy (Egypt). A very hard-working journalist works with her husband at the same place.  After Jan 25 revolution,  an intellectual conflict arises between them because of the difference of their points of view.  . . ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>يوميات زوجة مفروسة أوي (2015)</eventName>	
+	<eventDescription>مسلسل, كوميدي, عائلي, كوميدي (مصر). صحفية مجتهدة تعمل بنفس الجريدة التى يعمل بها زوجها، وينشأ بينهما صراع فكري بسبب مواقفهما ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 15:00:00</displayDateTime>
+			<activationDateTime>2015/09/27 15:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-186702936TrfK</siTrafficKey>
+			<detailKey>xpush-186702936DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Castle-Zahra</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Castle Zahra (2014)</eventName>	
+	<eventDescription>Serie, People, Drama (Turkey). Zahra is a 14 year old girl.  Despite being very successful in the school,  her father forced her to marry an old rich man for the sake of money.  She thus lives a miserable . . . Actor: Otmaca Dephrem, Orhan ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>زهرة القصر (2014)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (تركيا). يدمر والد زهرة ذات الرابعة عشر حياتها، و يحرمها من إستكمال دراستها على الرغم من . . . تمثيل: أتماكا ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 16:00:00</displayDateTime>
+			<activationDateTime>2015/09/27 16:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-186703872TrfK</siTrafficKey>
+			<detailKey>xpush-186703872DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Girls'-Necklace</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Girls' Necklace (2014)</eventName>	
+	<eventDescription>Serie, Drama, Women (Syria). Based on a true story in Damascus,  a father brings a necklace for his little beloved girl,  Set Al Sham,  but his wife advises him to distribute the necklace rings between all . . . Actor: Rasheed Aassaf, Mona ... </eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>طوق البنات (2014)</eventName>	
+	<eventDescription>مسلسل, دراما, المرأة (سوريا). من داخل دمشق القديمة، حيث تدور الأحداث حول الطوق الذى إشتراه والد الفتاة الصغيرة . . . تمثيل: رشيد عساف, ... </eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 17:00:00</displayDateTime>
+			<activationDateTime>2015/09/27 17:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-186703008TrfK</siTrafficKey>
+			<detailKey>xpush-186703008DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Envy-Fire</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Envy Fire (2014)</eventName>	
+	<eventDescription>Serie, Romance, Hindi, Drama (India). Durga is a rich girl who falls in love with a young flirt named Churaya.  He uses his special techniques to attract more girls and later on it becomes as a hobby.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>لهيب الحقد (2014)</eventName>	
+	<eventDescription>مسلسل, رومانسي, هندي, دراما (الهند). دورجا فتاة ثرية تقع في غرام شوريا الشاب اللعوب الذي يتخد من جذب الفتيات هواية، لتتغير حياتهما ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 18:00:00</displayDateTime>
+			<activationDateTime>2015/09/27 18:00:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-186703080TrfK</siTrafficKey>
+			<detailKey>xpush-186703080DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>MBC-NEWS</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>MBC NEWS</eventName>	
+	<eventDescription>News, Bulletin . Be the first to know about what's going on around the globe from politics,  sports,  weather and more.  (30')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>أخبار إم بي سي</eventName>	
+	<eventDescription>أخبار, نشرة أخبار . النافذة الأولى التي ستطلعك على كل ما يدور حول العالم من أخبار سياسية، اقتصادية، رياضية، جوية، وأكثر.  (30')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 18:30:00</displayDateTime>
+			<activationDateTime>2015/09/27 18:30:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-186703152TrfK</siTrafficKey>
+			<detailKey>xpush-186703152DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>WiFi</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>WiFi (2013)</eventName>	
+	<eventDescription>Serie, Comedy, Khaliji (Saudi Arabia). Separate episodes reviewing different issues related to Saudi society in a comic way and depending on imitating eminent characters,  in addition to funny songs. Host: Hia Alshoeby, Abd Allah Al Sanany ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>واي فاي (2013)</eventName>	
+	<eventDescription>مسلسل, كوميدي, خليجي (المملكة العربية السعودية). حلقات منفصلة تعالج عدة قضايا متعلقة بالمجتمع السعودي بشكل . . . تقديم: هيا الشعيبى, ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 19:00:00</displayDateTime>
+			<activationDateTime>2015/09/27 19:00:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-186703944TrfK</siTrafficKey>
+			<detailKey>xpush-186703944DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Great-Mayor</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Great Mayor (2015)</eventName>	
+	<eventDescription>Serie, Comedy, People, Comedy (Egypt). Following the previous four parts,  AlKabir is shocked when he knows that he has a new brother from Sudan putting him in many comedian situations.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>5الكبير قوي (2015)</eventName>	
+	<eventDescription>مسلسل, كوميدي, إجتماعي, كوميدي (مصر). استكمالا للأجزاءالسابقة، يتفاجأ الكبير قوي بظهور أخ أخر له بجانب حزلئوم، و جوني، وهو سوداني . . .  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 19:30:00</displayDateTime>
+			<activationDateTime>2015/09/27 19:30:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-186704016TrfK</siTrafficKey>
+			<detailKey>xpush-186704016DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>I-Want-To-Marry</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>I Want To Marry (2015)</eventName>	
+	<eventDescription>Show, Comedy, , Entertainment (Egypt). In a comic framework,  the bride sits in an interview with the who wants to marry her accompanied by his family.  A lot of funny pranks take place among them.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>عايز أتجوز (2015)</eventName>	
+	<eventDescription>برنامج, كوميدي, , ترفيه (مصر). في إطار كوميدي تجلس العروس في مقابلة مع أهل المتقدم بالزواج، فتحدث مقالب ضاحكة بين الجميع.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 20:00:00</displayDateTime>
+			<activationDateTime>2015/09/27 20:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-186703224TrfK</siTrafficKey>
+			<detailKey>xpush-186703224DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Nightmare</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Nightmare (2015)</eventName>	
+	<eventDescription>Serie, People, Drama (Egypt). A woman's son is murdered,  she decides to find the killer.  But her nightmares begin to hunt her as she finds that her son has a lot of enemies.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>الكابوس (2015)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (مصر). إمرأة يقتل ابنها في ظروف غامضة، وتقرر أن تبحث عن القاتل وتبدأ تلاحقها الكوابيس، لتكتشف أن ابنها كون . . .  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 21:00:00</displayDateTime>
+			<activationDateTime>2015/09/27 21:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-186703296TrfK</siTrafficKey>
+			<detailKey>xpush-186703296DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Echo-of-the-Stadiums</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Echo of the Stadiums (2011)</eventName>	
+	<eventDescription>Show, Sport magazine, Debate (Saudi Arabia). Famous sports magazine covering latest football games around the Arab region and in the world. Host: Mostafa Al Agha.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>صدى الملاعب (2011)</eventName>	
+	<eventDescription>برنامج, مجلة رياضية, حوار/نقاش (المملكة العربية السعودية). تغطية لكافة الأخبار الرياضية في الشرق الأوسط و . . . تقديم: مصطفى الأغا.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 22:00:00</displayDateTime>
+			<activationDateTime>2015/09/27 22:00:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-186704088TrfK</siTrafficKey>
+			<detailKey>xpush-186704088DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>WiFi</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>WiFi (2013)</eventName>	
+	<eventDescription>Serie, Comedy, Khaliji (Saudi Arabia). Separate episodes reviewing different issues related to Saudi society in a comic way and depending on imitating eminent characters,  in addition to funny songs. Host: Hia Alshoeby, Abd Allah Al Sanany ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>واي فاي (2013)</eventName>	
+	<eventDescription>مسلسل, كوميدي, خليجي (المملكة العربية السعودية). حلقات منفصلة تعالج عدة قضايا متعلقة بالمجتمع السعودي بشكل . . . تقديم: هيا الشعيبى, ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 22:30:00</displayDateTime>
+			<activationDateTime>2015/09/27 22:30:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-186704160TrfK</siTrafficKey>
+			<detailKey>xpush-186704160DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Great-Mayor</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Great Mayor (2015)</eventName>	
+	<eventDescription>Serie, Comedy, People, Comedy (Egypt). Following the previous four parts,  AlKabir is shocked when he knows that he has a new brother from Sudan putting him in many comedian situations.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>5الكبير قوي (2015)</eventName>	
+	<eventDescription>مسلسل, كوميدي, إجتماعي, كوميدي (مصر). استكمالا للأجزاءالسابقة، يتفاجأ الكبير قوي بظهور أخ أخر له بجانب حزلئوم، و جوني، وهو سوداني . . .  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 23:00:00</displayDateTime>
+			<activationDateTime>2015/09/27 23:00:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-186704232TrfK</siTrafficKey>
+			<detailKey>xpush-186704232DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>I-Want-To-Marry</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>I Want To Marry (2015)</eventName>	
+	<eventDescription>Show, Comedy, , Entertainment (Egypt). In a comic framework,  the bride sits in an interview with the who wants to marry her accompanied by his family.  A lot of funny pranks take place among them.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>عايز أتجوز (2015)</eventName>	
+	<eventDescription>برنامج, كوميدي, , ترفيه (مصر). في إطار كوميدي تجلس العروس في مقابلة مع أهل المتقدم بالزواج، فتحدث مقالب ضاحكة بين الجميع.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/27 23:30:00</displayDateTime>
+			<activationDateTime>2015/09/27 23:30:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-186704304TrfK</siTrafficKey>
+			<detailKey>xpush-186704304DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Sultan's-Cook</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Sultan's Cook (2012)</eventName>	
+	<eventDescription>Serie, Romance, Drama (Turkey). A love story blooms between a young cook and a beautiful girl within the Ottoman Palace,  reflecting the lives of both the Imperial Palace and that of the common folk who . . . Actor: Bashak Barlak, Anil ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>طباخ السلطان (2012)</eventName>	
+	<eventDescription>مسلسل, رومانسي, دراما (تركيا). قصة الطباخ الشاب أحمد وغرامه بالحسناء ديلروبا التي تدور في كواليس القصر السلطاني.  . . . تمثيل: بشاك ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 00:30:00</displayDateTime>
+			<activationDateTime>2015/09/28 00:30:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-188450304TrfK</siTrafficKey>
+			<detailKey>xpush-188450304DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Abdeen-Palace</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Abdeen Palace (2014)</eventName>	
+	<eventDescription>Serie, Biography, History, Drama (Egypt). The political tensions and incidents that are wondering around the castle,  as well as the competition between the palace maids to get the admiration of the . . . Actor: Yousra, Nelly  Karim, Ghada ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>سرايا عابدين (2014)</eventName>	
+	<eventDescription>مسلسل, سيرة ذاتية, تاريخ, دراما (مصر). الأحداث و التوترات السياسية التي تحوم حول السرايا خلال فترة حكم الخديوي . . . تمثيل: يسرا, نيللي   ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 01:15:00</displayDateTime>
+			<activationDateTime>2015/09/28 01:15:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-188450376TrfK</siTrafficKey>
+			<detailKey>xpush-188450376DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>My-Way</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>My Way (2015)</eventName>	
+	<eventDescription>Serie, People, Drama (Egypt). The young lady Dalela has only one dream which is to be a famous artist,  but this passion faces lots of obstacles set by her family refusing that way.  However,  she insists on attaining her ultimate dream ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>طريقي (2015)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (مصر). رحلة صعود الفتاة الأرستقراطية دليلة الى عالم الغناء متحدية جميع العقبات التي واجهتها ورفض أسرتها أن ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 02:00:00</displayDateTime>
+			<activationDateTime>2015/09/28 02:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-188448936TrfK</siTrafficKey>
+			<detailKey>xpush-188448936DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Eight-Oclock</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Eight Oclock (2013)</eventName>	
+	<eventDescription>Show, People, Politics, Talk Show (Saudi Arabia). Do you wish to discuss a topic in front of millions of fans? You may have your wish granted with the opportunity to suggest hot topics of interest to the . . . Host: Dawod  Al Shoryan.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>الثامنة (2013)</eventName>	
+	<eventDescription>برنامج, إجتماعي, سياسة, برنامج حواري (المملكة العربية السعودية). هل في ذهنك موضوع تود مناقشته أمام ملايين . . . تقديم: داود الشريان.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 03:00:00</displayDateTime>
+			<activationDateTime>2015/09/28 03:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-188450448TrfK</siTrafficKey>
+			<detailKey>xpush-188450448DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Echo-of-the-Stadiums</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Echo of the Stadiums (2011)</eventName>	
+	<eventDescription>Show, Sport magazine, Debate (Saudi Arabia). Famous sports magazine covering latest football games around the Arab region and in the world. Host: Mostafa Al Agha.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>صدى الملاعب (2011)</eventName>	
+	<eventDescription>برنامج, مجلة رياضية, حوار/نقاش (المملكة العربية السعودية). تغطية لكافة الأخبار الرياضية في الشرق الأوسط و . . . تقديم: مصطفى الأغا.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 04:00:00</displayDateTime>
+			<activationDateTime>2015/09/28 04:00:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-188450520TrfK</siTrafficKey>
+			<detailKey>xpush-188450520DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Yearning</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Yearning (2015)</eventName>	
+	<eventDescription>Serie, Comedy, People, Comedy (Egypt). An ambitious girl wants to be a famous actress.  She tries to find out someone to help her to make her dream come true.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>لهفة (2015)</eventName>	
+	<eventDescription>مسلسل, كوميدي, إجتماعي, كوميدي (مصر). فتاة طموحة ترغب طيلة حياتها بالعمل فى مجال التمثيل، تستعين بكل من تعرف لكي يساعدها فى مشوارها . . ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 04:45:00</displayDateTime>
+			<activationDateTime>2015/09/28 04:45:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-188450664TrfK</siTrafficKey>
+			<detailKey>xpush-188450664DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Genius</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Genius (2011)</eventName>	
+	<eventDescription>Serie, Comedy, Drama (Kuwait). Abo Khalifa is a kind social little doctor.  After his eldest son's marriage,  he decides to help him to live a descent life.  He bought him a shop as a gift. Actor: Tarek Al Ali, Mona Shdad. Director: Nomaan ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>الفلتة (2011)</eventName>	
+	<eventDescription>مسلسل, كوميدي, دراما (الكويت). بو خليفة رجل اجتماعي طيب يعمل بمهنة الطب الشعبي في علاج الناس، يقرر بعد زواج ابنه . . . تمثيل: طارق العلي, ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 05:30:00</displayDateTime>
+			<activationDateTime>2015/09/28 05:30:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-188450736TrfK</siTrafficKey>
+			<detailKey>xpush-188450736DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Heba,-The-Crow's-Leg</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Heba, The Crow's Leg (2014)</eventName>	
+	<eventDescription>Serie, Comedy, Romance, People, Comedy (Egypt). Heba is an ugly girl yet she is smart and hard worker.  She gets hired at one of the biggest fashion houses in Egypt as the CEO assistant.  There some people . . . Actor: Emy Samer Ghanem, ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>هبة رجل الغراب (2014)</eventName>	
+	<eventDescription>مسلسل, كوميدي, رومانسي, إجتماعي, كوميدي (مصر). فتاة بسيطة الحال قبيحة ولكن ذكية ومجتهدة في عملها، تعمل في أحد بيوت . . . تمثيل: إيمي سمير ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 06:15:00</displayDateTime>
+			<activationDateTime>2015/09/28 06:15:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-188450232TrfK</siTrafficKey>
+			<detailKey>xpush-188450232DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Abdeen-Palace</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Abdeen Palace (2014)</eventName>	
+	<eventDescription>Serie, Biography, History, Drama (Egypt). The political tensions and incidents that are wondering around the castle,  as well as the competition between the palace maids to get the admiration of the . . . Actor: Yousra, Nelly  Karim, Ghada ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>سرايا عابدين (2014)</eventName>	
+	<eventDescription>مسلسل, سيرة ذاتية, تاريخ, دراما (مصر). الأحداث و التوترات السياسية التي تحوم حول السرايا خلال فترة حكم الخديوي . . . تمثيل: يسرا, نيللي   ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 07:00:00</displayDateTime>
+			<activationDateTime>2015/09/28 07:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-188449008TrfK</siTrafficKey>
+			<detailKey>xpush-188449008DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>And-Hope-Still-Goes-</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>And Hope Still Goes On (2013)</eventName>	
+	<eventDescription>Serie, Romance, Drama (Turkey). A 23 year old girl works in a hair salon,  and has to give her salary to her unemployed stepfather,  but there's something that will turn her life upside down.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>ويبقى الأمل (2013)</eventName>	
+	<eventDescription>مسلسل, رومانسي, دراما (تركيا). فتاة تبلغ من العمر 23 عاماً، تعمل في صالون لتزيين الشعر، وتضطر أن تسلم راتبها لزوج . . . تمثيل: علي أركزان, ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 08:00:00</displayDateTime>
+			<activationDateTime>2015/09/28 08:00:00</activationDateTime>
+			
+			
+<displayDuration>02:00:00</displayDuration>
+			<siTrafficKey>xpush-188449080TrfK</siTrafficKey>
+			<detailKey>xpush-188449080DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Good-Morning-Arabs</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Good Morning Arabs (2011)</eventName>	
+	<eventDescription>Show, Morning Show, Talk Show (Saudi Arabia). Discussing different topics and issues,  which concern the Arab community,   especially women.  It also keeps you updated with the latest inventions and the . . . Host: Lojain Omran.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>صباح الخير يا عرب (2011)</eventName>	
+	<eventDescription>برنامج, برنامج صباحي, برنامج حواري (المملكة العربية السعودية). تغطية عامة لكافة إهتمامات الشارع العربي على . . . تقديم: لجين عمران.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 10:00:00</displayDateTime>
+			<activationDateTime>2015/09/28 10:00:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-188449152TrfK</siTrafficKey>
+			<detailKey>xpush-188449152DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Castle-Zahra</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Castle Zahra (2014)</eventName>	
+	<eventDescription>Serie, People, Drama (Turkey). Zahra is a 14 year old girl.  Despite being very successful in the school,  her father forced her to marry an old rich man for the sake of money.  She thus lives a miserable . . . Actor: Otmaca Dephrem, Orhan ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>زهرة القصر (2014)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (تركيا). يدمر والد زهرة ذات الرابعة عشر حياتها، و يحرمها من إستكمال دراستها على الرغم من . . . تمثيل: أتماكا ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 10:45:00</displayDateTime>
+			<activationDateTime>2015/09/28 10:45:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-188450808TrfK</siTrafficKey>
+			<detailKey>xpush-188450808DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Yearning</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Yearning (2015)</eventName>	
+	<eventDescription>Serie, Comedy, People, Comedy (Egypt). An ambitious girl wants to be a famous actress.  She tries to find out someone to help her to make her dream come true.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>لهفة (2015)</eventName>	
+	<eventDescription>مسلسل, كوميدي, إجتماعي, كوميدي (مصر). فتاة طموحة ترغب طيلة حياتها بالعمل فى مجال التمثيل، تستعين بكل من تعرف لكي يساعدها فى مشوارها . . ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 11:15:00</displayDateTime>
+			<activationDateTime>2015/09/28 11:15:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-188450880TrfK</siTrafficKey>
+			<detailKey>xpush-188450880DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>100-Richter</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>100 Richter (2015)</eventName>	
+	<eventDescription>Show, Comedy, Entertainment (Egypt). Young actor Khalid Elish hosts many actors and sport stars for a radio interview,  but the basic goal is easing them in comedy pranks full of excitement.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>100 ريختر (2015)</eventName>	
+	<eventDescription>برنامج, كوميدي, ترفيه (مصر). يستضيف الممثل الشاب خالد عليش نجوم الفن والرياضة من أجل مقابلة إذاعية، لكن الهدف الأساسي هو إستدراجهم ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 11:45:00</displayDateTime>
+			<activationDateTime>2015/09/28 11:45:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-188450952TrfK</siTrafficKey>
+			<detailKey>xpush-188450952DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Genius</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Genius (2011)</eventName>	
+	<eventDescription>Serie, Comedy, Drama (Kuwait). Abo Khalifa is a kind social little doctor.  After his eldest son's marriage,  he decides to help him to live a descent life.  He bought him a shop as a gift. Actor: Tarek Al Ali, Mona Shdad. Director: Nomaan ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>الفلتة (2011)</eventName>	
+	<eventDescription>مسلسل, كوميدي, دراما (الكويت). بو خليفة رجل اجتماعي طيب يعمل بمهنة الطب الشعبي في علاج الناس، يقرر بعد زواج ابنه . . . تمثيل: طارق العلي, ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 12:15:00</displayDateTime>
+			<activationDateTime>2015/09/28 12:15:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-188449872TrfK</siTrafficKey>
+			<detailKey>xpush-188449872DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>My-Way</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>My Way (2015)</eventName>	
+	<eventDescription>Serie, People, Drama (Egypt). The young lady Dalela has only one dream which is to be a famous artist,  but this passion faces lots of obstacles set by her family refusing that way.  However,  she insists on attaining her ultimate dream ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>طريقي (2015)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (مصر). رحلة صعود الفتاة الأرستقراطية دليلة الى عالم الغناء متحدية جميع العقبات التي واجهتها ورفض أسرتها أن ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 13:00:00</displayDateTime>
+			<activationDateTime>2015/09/28 13:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-188449224TrfK</siTrafficKey>
+			<detailKey>xpush-188449224DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>And-Hope-Still-Goes-</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>And Hope Still Goes On (2013)</eventName>	
+	<eventDescription>Serie, Romance, Drama (Turkey). A 23 year old girl works in a hair salon,  and has to give her salary to her unemployed stepfather,  but there's something that will turn her life upside down.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>ويبقى الأمل (2013)</eventName>	
+	<eventDescription>مسلسل, رومانسي, دراما (تركيا). فتاة تبلغ من العمر 23 عاماً، تعمل في صالون لتزيين الشعر، وتضطر أن تسلم راتبها لزوج . . . تمثيل: علي أركزان, ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 14:00:00</displayDateTime>
+			<activationDateTime>2015/09/28 14:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-188449296TrfK</siTrafficKey>
+			<detailKey>xpush-188449296DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Heba,-The-Crow's-Leg</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Heba, The Crow's Leg (2014)</eventName>	
+	<eventDescription>Serie, Comedy, Romance, People, Comedy (Egypt). Heba is an ugly girl yet she is smart and hard worker.  She gets hired at one of the biggest fashion houses in Egypt as the CEO assistant.  There some people . . . Actor: Emy Samer Ghanem, ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>هبة رجل الغراب (2014)</eventName>	
+	<eventDescription>مسلسل, كوميدي, رومانسي, إجتماعي, كوميدي (مصر). فتاة بسيطة الحال قبيحة ولكن ذكية ومجتهدة في عملها، تعمل في أحد بيوت . . . تمثيل: إيمي سمير ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 15:00:00</displayDateTime>
+			<activationDateTime>2015/09/28 15:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-188449368TrfK</siTrafficKey>
+			<detailKey>xpush-188449368DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Castle-Zahra</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Castle Zahra (2014)</eventName>	
+	<eventDescription>Serie, People, Drama (Turkey). Zahra is a 14 year old girl.  Despite being very successful in the school,  her father forced her to marry an old rich man for the sake of money.  She thus lives a miserable . . . Actor: Otmaca Dephrem, Orhan ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>زهرة القصر (2014)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (تركيا). يدمر والد زهرة ذات الرابعة عشر حياتها، و يحرمها من إستكمال دراستها على الرغم من . . . تمثيل: أتماكا ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 16:00:00</displayDateTime>
+			<activationDateTime>2015/09/28 16:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-188449440TrfK</siTrafficKey>
+			<detailKey>xpush-188449440DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Abdeen-Palace</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Abdeen Palace (2014)</eventName>	
+	<eventDescription>Serie, Biography, History, Drama (Egypt). The political tensions and incidents that are wondering around the castle,  as well as the competition between the palace maids to get the admiration of the . . . Actor: Yousra, Nelly  Karim, Ghada ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>سرايا عابدين (2014)</eventName>	
+	<eventDescription>مسلسل, سيرة ذاتية, تاريخ, دراما (مصر). الأحداث و التوترات السياسية التي تحوم حول السرايا خلال فترة حكم الخديوي . . . تمثيل: يسرا, نيللي   ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 17:00:00</displayDateTime>
+			<activationDateTime>2015/09/28 17:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-188449512TrfK</siTrafficKey>
+			<detailKey>xpush-188449512DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Eight-Oclock</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Eight Oclock (2013)</eventName>	
+	<eventDescription>Show, People, Politics, Talk Show (Saudi Arabia). Do you wish to discuss a topic in front of millions of fans? You may have your wish granted with the opportunity to suggest hot topics of interest to the . . . Host: Dawod  Al Shoryan.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>الثامنة (2013)</eventName>	
+	<eventDescription>برنامج, إجتماعي, سياسة, برنامج حواري (المملكة العربية السعودية). هل في ذهنك موضوع تود مناقشته أمام ملايين . . . تقديم: داود الشريان.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 18:00:00</displayDateTime>
+			<activationDateTime>2015/09/28 18:00:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-188449584TrfK</siTrafficKey>
+			<detailKey>xpush-188449584DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>MBC-NEWS</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>MBC NEWS</eventName>	
+	<eventDescription>News, Bulletin . Be the first to know about what's going on around the globe from politics,  sports,  weather and more.  (30')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>أخبار إم بي سي</eventName>	
+	<eventDescription>أخبار, نشرة أخبار . النافذة الأولى التي ستطلعك على كل ما يدور حول العالم من أخبار سياسية، اقتصادية، رياضية، جوية، وأكثر.  (30')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 18:30:00</displayDateTime>
+			<activationDateTime>2015/09/28 18:30:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-188449656TrfK</siTrafficKey>
+			<detailKey>xpush-188449656DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Yearning</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Yearning (2015)</eventName>	
+	<eventDescription>Serie, Comedy, People, Comedy (Egypt). An ambitious girl wants to be a famous actress.  She tries to find out someone to help her to make her dream come true.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>لهفة (2015)</eventName>	
+	<eventDescription>مسلسل, كوميدي, إجتماعي, كوميدي (مصر). فتاة طموحة ترغب طيلة حياتها بالعمل فى مجال التمثيل، تستعين بكل من تعرف لكي يساعدها فى مشوارها . . ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 19:00:00</displayDateTime>
+			<activationDateTime>2015/09/28 19:00:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-188449944TrfK</siTrafficKey>
+			<detailKey>xpush-188449944DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>100-Richter</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>100 Richter (2015)</eventName>	
+	<eventDescription>Show, Comedy, Entertainment (Egypt). Young actor Khalid Elish hosts many actors and sport stars for a radio interview,  but the basic goal is easing them in comedy pranks full of excitement.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>100 ريختر (2015)</eventName>	
+	<eventDescription>برنامج, كوميدي, ترفيه (مصر). يستضيف الممثل الشاب خالد عليش نجوم الفن والرياضة من أجل مقابلة إذاعية، لكن الهدف الأساسي هو إستدراجهم ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 19:30:00</displayDateTime>
+			<activationDateTime>2015/09/28 19:30:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-188450016TrfK</siTrafficKey>
+			<detailKey>xpush-188450016DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Genius</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Genius (2011)</eventName>	
+	<eventDescription>Serie, Comedy, Drama (Kuwait). Abo Khalifa is a kind social little doctor.  After his eldest son's marriage,  he decides to help him to live a descent life.  He bought him a shop as a gift. Actor: Tarek Al Ali, Mona Shdad. Director: Nomaan ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>الفلتة (2011)</eventName>	
+	<eventDescription>مسلسل, كوميدي, دراما (الكويت). بو خليفة رجل اجتماعي طيب يعمل بمهنة الطب الشعبي في علاج الناس، يقرر بعد زواج ابنه . . . تمثيل: طارق العلي, ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 20:00:00</displayDateTime>
+			<activationDateTime>2015/09/28 20:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-188449728TrfK</siTrafficKey>
+			<detailKey>xpush-188449728DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>My-Way</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>My Way (2015)</eventName>	
+	<eventDescription>Serie, People, Drama (Egypt). The young lady Dalela has only one dream which is to be a famous artist,  but this passion faces lots of obstacles set by her family refusing that way.  However,  she insists on attaining her ultimate dream ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>طريقي (2015)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (مصر). رحلة صعود الفتاة الأرستقراطية دليلة الى عالم الغناء متحدية جميع العقبات التي واجهتها ورفض أسرتها أن ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 21:00:00</displayDateTime>
+			<activationDateTime>2015/09/28 21:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-188449800TrfK</siTrafficKey>
+			<detailKey>xpush-188449800DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Echo-of-the-Stadiums</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Echo of the Stadiums (2011)</eventName>	
+	<eventDescription>Show, Sport magazine, Debate (Saudi Arabia). Famous sports magazine covering latest football games around the Arab region and in the world. Host: Mostafa Al Agha.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>صدى الملاعب (2011)</eventName>	
+	<eventDescription>برنامج, مجلة رياضية, حوار/نقاش (المملكة العربية السعودية). تغطية لكافة الأخبار الرياضية في الشرق الأوسط و . . . تقديم: مصطفى الأغا.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 22:00:00</displayDateTime>
+			<activationDateTime>2015/09/28 22:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-188450088TrfK</siTrafficKey>
+			<detailKey>xpush-188450088DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Eight-Oclock</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Eight Oclock (2013)</eventName>	
+	<eventDescription>Show, People, Politics, Talk Show (Saudi Arabia). Do you wish to discuss a topic in front of millions of fans? You may have your wish granted with the opportunity to suggest hot topics of interest to the . . . Host: Dawod  Al Shoryan.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>الثامنة (2013)</eventName>	
+	<eventDescription>برنامج, إجتماعي, سياسة, برنامج حواري (المملكة العربية السعودية). هل في ذهنك موضوع تود مناقشته أمام ملايين . . . تقديم: داود الشريان.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 23:00:00</displayDateTime>
+			<activationDateTime>2015/09/28 23:00:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-188450160TrfK</siTrafficKey>
+			<detailKey>xpush-188450160DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Castle-Zahra</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Castle Zahra (2014)</eventName>	
+	<eventDescription>Serie, People, Drama (Turkey). Zahra is a 14 year old girl.  Despite being very successful in the school,  her father forced her to marry an old rich man for the sake of money.  She thus lives a miserable . . . Actor: Otmaca Dephrem, Orhan ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>زهرة القصر (2014)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (تركيا). يدمر والد زهرة ذات الرابعة عشر حياتها، و يحرمها من إستكمال دراستها على الرغم من . . . تمثيل: أتماكا ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/28 23:45:00</displayDateTime>
+			<activationDateTime>2015/09/28 23:45:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-188450592TrfK</siTrafficKey>
+			<detailKey>xpush-188450592DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>And-Hope-Still-Goes-</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>And Hope Still Goes On (2013)</eventName>	
+	<eventDescription>Serie, Romance, Drama (Turkey). A 23 year old girl works in a hair salon,  and has to give her salary to her unemployed stepfather,  but there's something that will turn her life upside down.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>ويبقى الأمل (2013)</eventName>	
+	<eventDescription>مسلسل, رومانسي, دراما (تركيا). فتاة تبلغ من العمر 23 عاماً، تعمل في صالون لتزيين الشعر، وتضطر أن تسلم راتبها لزوج . . . تمثيل: علي أركزان, ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 00:30:00</displayDateTime>
+			<activationDateTime>2015/09/29 00:30:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-187390992TrfK</siTrafficKey>
+			<detailKey>xpush-187390992DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Abdeen-Palace</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Abdeen Palace (2014)</eventName>	
+	<eventDescription>Serie, Biography, History, Drama (Egypt). The political tensions and incidents that are wondering around the castle,  as well as the competition between the palace maids to get the admiration of the . . . Actor: Yousra, Nelly  Karim, Ghada ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>سرايا عابدين (2014)</eventName>	
+	<eventDescription>مسلسل, سيرة ذاتية, تاريخ, دراما (مصر). الأحداث و التوترات السياسية التي تحوم حول السرايا خلال فترة حكم الخديوي . . . تمثيل: يسرا, نيللي   ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 01:15:00</displayDateTime>
+			<activationDateTime>2015/09/29 01:15:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-187391088TrfK</siTrafficKey>
+			<detailKey>xpush-187391088DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>My-Way</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>My Way (2015)</eventName>	
+	<eventDescription>Serie, People, Drama (Egypt). The young lady Dalela has only one dream which is to be a famous artist,  but this passion faces lots of obstacles set by her family refusing that way.  However,  she insists on attaining her ultimate dream ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>طريقي (2015)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (مصر). رحلة صعود الفتاة الأرستقراطية دليلة الى عالم الغناء متحدية جميع العقبات التي واجهتها ورفض أسرتها أن ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 02:00:00</displayDateTime>
+			<activationDateTime>2015/09/29 02:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-187391184TrfK</siTrafficKey>
+			<detailKey>xpush-187391184DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Eight-Oclock</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Eight Oclock (2013)</eventName>	
+	<eventDescription>Show, People, Politics, Talk Show (Saudi Arabia). Do you wish to discuss a topic in front of millions of fans? You may have your wish granted with the opportunity to suggest hot topics of interest to the . . . Host: Dawod  Al Shoryan.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>الثامنة (2013)</eventName>	
+	<eventDescription>برنامج, إجتماعي, سياسة, برنامج حواري (المملكة العربية السعودية). هل في ذهنك موضوع تود مناقشته أمام ملايين . . . تقديم: داود الشريان.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 03:00:00</displayDateTime>
+			<activationDateTime>2015/09/29 03:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-187391280TrfK</siTrafficKey>
+			<detailKey>xpush-187391280DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Echo-of-the-Stadiums</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Echo of the Stadiums (2011)</eventName>	
+	<eventDescription>Show, Sport magazine, Debate (Saudi Arabia). Famous sports magazine covering latest football games around the Arab region and in the world. Host: Mostafa Al Agha.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>صدى الملاعب (2011)</eventName>	
+	<eventDescription>برنامج, مجلة رياضية, حوار/نقاش (المملكة العربية السعودية). تغطية لكافة الأخبار الرياضية في الشرق الأوسط و . . . تقديم: مصطفى الأغا.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 04:00:00</displayDateTime>
+			<activationDateTime>2015/09/29 04:00:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-187391376TrfK</siTrafficKey>
+			<detailKey>xpush-187391376DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Yearning</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Yearning (2015)</eventName>	
+	<eventDescription>Serie, Comedy, People, Comedy (Egypt). An ambitious girl wants to be a famous actress.  She tries to find out someone to help her to make her dream come true.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>لهفة (2015)</eventName>	
+	<eventDescription>مسلسل, كوميدي, إجتماعي, كوميدي (مصر). فتاة طموحة ترغب طيلة حياتها بالعمل فى مجال التمثيل، تستعين بكل من تعرف لكي يساعدها فى مشوارها . . ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 04:30:00</displayDateTime>
+			<activationDateTime>2015/09/29 04:30:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-187391760TrfK</siTrafficKey>
+			<detailKey>xpush-187391760DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Genius</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Genius (2011)</eventName>	
+	<eventDescription>Serie, Comedy, Drama (Kuwait). Abo Khalifa is a kind social little doctor.  After his eldest son's marriage,  he decides to help him to live a descent life.  He bought him a shop as a gift. Actor: Tarek Al Ali, Mona Shdad. Director: Nomaan ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>الفلتة (2011)</eventName>	
+	<eventDescription>مسلسل, كوميدي, دراما (الكويت). بو خليفة رجل اجتماعي طيب يعمل بمهنة الطب الشعبي في علاج الناس، يقرر بعد زواج ابنه . . . تمثيل: طارق العلي, ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 05:00:00</displayDateTime>
+			<activationDateTime>2015/09/29 05:00:00</activationDateTime>
+			
+			
+<displayDuration>01:15:00</displayDuration>
+			<siTrafficKey>xpush-187391856TrfK</siTrafficKey>
+			<detailKey>xpush-187391856DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Heba,-The-Crow's-Leg</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Heba, The Crow's Leg (2014)</eventName>	
+	<eventDescription>Serie, Comedy, Romance, People, Comedy (Egypt). Heba is an ugly girl yet she is smart and hard worker.  She gets hired at one of the biggest fashion houses in Egypt as the CEO assistant.  There some people . . . Actor: Emy Samer Ghanem, ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>هبة رجل الغراب (2014)</eventName>	
+	<eventDescription>مسلسل, كوميدي, رومانسي, إجتماعي, كوميدي (مصر). فتاة بسيطة الحال قبيحة ولكن ذكية ومجتهدة في عملها، تعمل في أحد بيوت . . . تمثيل: إيمي سمير ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 06:15:00</displayDateTime>
+			<activationDateTime>2015/09/29 06:15:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-187391472TrfK</siTrafficKey>
+			<detailKey>xpush-187391472DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Abdeen-Palace</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Abdeen Palace (2014)</eventName>	
+	<eventDescription>Serie, Biography, History, Drama (Egypt). The political tensions and incidents that are wondering around the castle,  as well as the competition between the palace maids to get the admiration of the . . . Actor: Yousra, Nelly  Karim, Ghada ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>سرايا عابدين (2014)</eventName>	
+	<eventDescription>مسلسل, سيرة ذاتية, تاريخ, دراما (مصر). الأحداث و التوترات السياسية التي تحوم حول السرايا خلال فترة حكم الخديوي . . . تمثيل: يسرا, نيللي   ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 07:00:00</displayDateTime>
+			<activationDateTime>2015/09/29 07:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-187389456TrfK</siTrafficKey>
+			<detailKey>xpush-187389456DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>And-Hope-Still-Goes-</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>And Hope Still Goes On (2013)</eventName>	
+	<eventDescription>Serie, Romance, Drama (Turkey). A 23 year old girl works in a hair salon,  and has to give her salary to her unemployed stepfather,  but there's something that will turn her life upside down.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>ويبقى الأمل (2013)</eventName>	
+	<eventDescription>مسلسل, رومانسي, دراما (تركيا). فتاة تبلغ من العمر 23 عاماً، تعمل في صالون لتزيين الشعر، وتضطر أن تسلم راتبها لزوج . . . تمثيل: علي أركزان, ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 08:00:00</displayDateTime>
+			<activationDateTime>2015/09/29 08:00:00</activationDateTime>
+			
+			
+<displayDuration>02:00:00</displayDuration>
+			<siTrafficKey>xpush-187389552TrfK</siTrafficKey>
+			<detailKey>xpush-187389552DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Good-Morning-Arabs</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Good Morning Arabs (2011)</eventName>	
+	<eventDescription>Show, Morning Show, Talk Show (Saudi Arabia). Discussing different topics and issues,  which concern the Arab community,   especially women.  It also keeps you updated with the latest inventions and the . . . Host: Lojain Omran.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>صباح الخير يا عرب (2011)</eventName>	
+	<eventDescription>برنامج, برنامج صباحي, برنامج حواري (المملكة العربية السعودية). تغطية عامة لكافة إهتمامات الشارع العربي على . . . تقديم: لجين عمران.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 10:00:00</displayDateTime>
+			<activationDateTime>2015/09/29 10:00:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-187389648TrfK</siTrafficKey>
+			<detailKey>xpush-187389648DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Castle-Zahra</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Castle Zahra (2014)</eventName>	
+	<eventDescription>Serie, People, Drama (Turkey). Zahra is a 14 year old girl.  Despite being very successful in the school,  her father forced her to marry an old rich man for the sake of money.  She thus lives a miserable . . . Actor: Otmaca Dephrem, Orhan ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>زهرة القصر (2014)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (تركيا). يدمر والد زهرة ذات الرابعة عشر حياتها، و يحرمها من إستكمال دراستها على الرغم من . . . تمثيل: أتماكا ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 10:45:00</displayDateTime>
+			<activationDateTime>2015/09/29 10:45:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-187391952TrfK</siTrafficKey>
+			<detailKey>xpush-187391952DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Yearning</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Yearning (2015)</eventName>	
+	<eventDescription>Serie, Comedy, People, Comedy (Egypt). An ambitious girl wants to be a famous actress.  She tries to find out someone to help her to make her dream come true.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>لهفة (2015)</eventName>	
+	<eventDescription>مسلسل, كوميدي, إجتماعي, كوميدي (مصر). فتاة طموحة ترغب طيلة حياتها بالعمل فى مجال التمثيل، تستعين بكل من تعرف لكي يساعدها فى مشوارها . . ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 11:15:00</displayDateTime>
+			<activationDateTime>2015/09/29 11:15:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-187392048TrfK</siTrafficKey>
+			<detailKey>xpush-187392048DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>100-Richter</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>100 Richter (2015)</eventName>	
+	<eventDescription>Show, Comedy, Entertainment (Egypt). Young actor Khalid Elish hosts many actors and sport stars for a radio interview,  but the basic goal is easing them in comedy pranks full of excitement.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>100 ريختر (2015)</eventName>	
+	<eventDescription>برنامج, كوميدي, ترفيه (مصر). يستضيف الممثل الشاب خالد عليش نجوم الفن والرياضة من أجل مقابلة إذاعية، لكن الهدف الأساسي هو إستدراجهم ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 11:45:00</displayDateTime>
+			<activationDateTime>2015/09/29 11:45:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-187392144TrfK</siTrafficKey>
+			<detailKey>xpush-187392144DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Genius</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Genius (2011)</eventName>	
+	<eventDescription>Serie, Comedy, Drama (Kuwait). Abo Khalifa is a kind social little doctor.  After his eldest son's marriage,  he decides to help him to live a descent life.  He bought him a shop as a gift. Actor: Tarek Al Ali, Mona Shdad. Director: Nomaan ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>الفلتة (2011)</eventName>	
+	<eventDescription>مسلسل, كوميدي, دراما (الكويت). بو خليفة رجل اجتماعي طيب يعمل بمهنة الطب الشعبي في علاج الناس، يقرر بعد زواج ابنه . . . تمثيل: طارق العلي, ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 12:15:00</displayDateTime>
+			<activationDateTime>2015/09/29 12:15:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-187390512TrfK</siTrafficKey>
+			<detailKey>xpush-187390512DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>My-Way</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>My Way (2015)</eventName>	
+	<eventDescription>Serie, People, Drama (Egypt). The young lady Dalela has only one dream which is to be a famous artist,  but this passion faces lots of obstacles set by her family refusing that way.  However,  she insists on attaining her ultimate dream ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>طريقي (2015)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (مصر). رحلة صعود الفتاة الأرستقراطية دليلة الى عالم الغناء متحدية جميع العقبات التي واجهتها ورفض أسرتها أن ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 13:00:00</displayDateTime>
+			<activationDateTime>2015/09/29 13:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-187389744TrfK</siTrafficKey>
+			<detailKey>xpush-187389744DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>And-Hope-Still-Goes-</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>And Hope Still Goes On (2013)</eventName>	
+	<eventDescription>Serie, Romance, Drama (Turkey). A 23 year old girl works in a hair salon,  and has to give her salary to her unemployed stepfather,  but there's something that will turn her life upside down.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>ويبقى الأمل (2013)</eventName>	
+	<eventDescription>مسلسل, رومانسي, دراما (تركيا). فتاة تبلغ من العمر 23 عاماً، تعمل في صالون لتزيين الشعر، وتضطر أن تسلم راتبها لزوج . . . تمثيل: علي أركزان, ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 14:00:00</displayDateTime>
+			<activationDateTime>2015/09/29 14:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-187390896TrfK</siTrafficKey>
+			<detailKey>xpush-187390896DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Heba,-The-Crow's-Leg</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Heba, The Crow's Leg (2014)</eventName>	
+	<eventDescription>Serie, Comedy, Romance, People, Comedy (Egypt). Heba is an ugly girl yet she is smart and hard worker.  She gets hired at one of the biggest fashion houses in Egypt as the CEO assistant.  There some people . . . Actor: Emy Samer Ghanem, ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>هبة رجل الغراب (2014)</eventName>	
+	<eventDescription>مسلسل, كوميدي, رومانسي, إجتماعي, كوميدي (مصر). فتاة بسيطة الحال قبيحة ولكن ذكية ومجتهدة في عملها، تعمل في أحد بيوت . . . تمثيل: إيمي سمير ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 15:00:00</displayDateTime>
+			<activationDateTime>2015/09/29 15:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-187389840TrfK</siTrafficKey>
+			<detailKey>xpush-187389840DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Castle-Zahra</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Castle Zahra (2014)</eventName>	
+	<eventDescription>Serie, People, Drama (Turkey). Zahra is a 14 year old girl.  Despite being very successful in the school,  her father forced her to marry an old rich man for the sake of money.  She thus lives a miserable . . . Actor: Otmaca Dephrem, Orhan ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>زهرة القصر (2014)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (تركيا). يدمر والد زهرة ذات الرابعة عشر حياتها، و يحرمها من إستكمال دراستها على الرغم من . . . تمثيل: أتماكا ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 16:00:00</displayDateTime>
+			<activationDateTime>2015/09/29 16:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-187389936TrfK</siTrafficKey>
+			<detailKey>xpush-187389936DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Abdeen-Palace</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Abdeen Palace (2014)</eventName>	
+	<eventDescription>Serie, Biography, History, Drama (Egypt). The political tensions and incidents that are wondering around the castle,  as well as the competition between the palace maids to get the admiration of the . . . Actor: Yousra, Nelly  Karim, Ghada ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>سرايا عابدين (2014)</eventName>	
+	<eventDescription>مسلسل, سيرة ذاتية, تاريخ, دراما (مصر). الأحداث و التوترات السياسية التي تحوم حول السرايا خلال فترة حكم الخديوي . . . تمثيل: يسرا, نيللي   ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 17:00:00</displayDateTime>
+			<activationDateTime>2015/09/29 17:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-187390032TrfK</siTrafficKey>
+			<detailKey>xpush-187390032DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Eight-Oclock</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Eight Oclock (2013)</eventName>	
+	<eventDescription>Show, People, Politics, Talk Show (Saudi Arabia). Do you wish to discuss a topic in front of millions of fans? You may have your wish granted with the opportunity to suggest hot topics of interest to the . . . Host: Dawod  Al Shoryan.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>الثامنة (2013)</eventName>	
+	<eventDescription>برنامج, إجتماعي, سياسة, برنامج حواري (المملكة العربية السعودية). هل في ذهنك موضوع تود مناقشته أمام ملايين . . . تقديم: داود الشريان.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 18:00:00</displayDateTime>
+			<activationDateTime>2015/09/29 18:00:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-187390128TrfK</siTrafficKey>
+			<detailKey>xpush-187390128DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>MBC-NEWS</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>MBC NEWS</eventName>	
+	<eventDescription>News, Bulletin . Be the first to know about what's going on around the globe from politics,  sports,  weather and more.  (30')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>أخبار إم بي سي</eventName>	
+	<eventDescription>أخبار, نشرة أخبار . النافذة الأولى التي ستطلعك على كل ما يدور حول العالم من أخبار سياسية، اقتصادية، رياضية، جوية، وأكثر.  (30')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 18:30:00</displayDateTime>
+			<activationDateTime>2015/09/29 18:30:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-187390224TrfK</siTrafficKey>
+			<detailKey>xpush-187390224DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Yearning</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Yearning (2015)</eventName>	
+	<eventDescription>Serie, Comedy, People, Comedy (Egypt). An ambitious girl wants to be a famous actress.  She tries to find out someone to help her to make her dream come true.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>لهفة (2015)</eventName>	
+	<eventDescription>مسلسل, كوميدي, إجتماعي, كوميدي (مصر). فتاة طموحة ترغب طيلة حياتها بالعمل فى مجال التمثيل، تستعين بكل من تعرف لكي يساعدها فى مشوارها . . ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 19:00:00</displayDateTime>
+			<activationDateTime>2015/09/29 19:00:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-187390608TrfK</siTrafficKey>
+			<detailKey>xpush-187390608DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>100-Richter</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>100 Richter (2015)</eventName>	
+	<eventDescription>Show, Comedy, Entertainment (Egypt). Young actor Khalid Elish hosts many actors and sport stars for a radio interview,  but the basic goal is easing them in comedy pranks full of excitement.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>100 ريختر (2015)</eventName>	
+	<eventDescription>برنامج, كوميدي, ترفيه (مصر). يستضيف الممثل الشاب خالد عليش نجوم الفن والرياضة من أجل مقابلة إذاعية، لكن الهدف الأساسي هو إستدراجهم ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 19:30:00</displayDateTime>
+			<activationDateTime>2015/09/29 19:30:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-187390704TrfK</siTrafficKey>
+			<detailKey>xpush-187390704DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Genius</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Genius (2011)</eventName>	
+	<eventDescription>Serie, Comedy, Drama (Kuwait). Abo Khalifa is a kind social little doctor.  After his eldest son's marriage,  he decides to help him to live a descent life.  He bought him a shop as a gift. Actor: Tarek Al Ali, Mona Shdad. Director: Nomaan ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>الفلتة (2011)</eventName>	
+	<eventDescription>مسلسل, كوميدي, دراما (الكويت). بو خليفة رجل اجتماعي طيب يعمل بمهنة الطب الشعبي في علاج الناس، يقرر بعد زواج ابنه . . . تمثيل: طارق العلي, ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 20:00:00</displayDateTime>
+			<activationDateTime>2015/09/29 20:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-187390320TrfK</siTrafficKey>
+			<detailKey>xpush-187390320DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>My-Way</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>My Way (2015)</eventName>	
+	<eventDescription>Serie, People, Drama (Egypt). The young lady Dalela has only one dream which is to be a famous artist,  but this passion faces lots of obstacles set by her family refusing that way.  However,  she insists on attaining her ultimate dream ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>طريقي (2015)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (مصر). رحلة صعود الفتاة الأرستقراطية دليلة الى عالم الغناء متحدية جميع العقبات التي واجهتها ورفض أسرتها أن ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 21:00:00</displayDateTime>
+			<activationDateTime>2015/09/29 21:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-187390416TrfK</siTrafficKey>
+			<detailKey>xpush-187390416DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Echo-of-the-Stadiums</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Echo of the Stadiums (2011)</eventName>	
+	<eventDescription>Show, Sport magazine, Debate (Saudi Arabia). Famous sports magazine covering latest football games around the Arab region and in the world. Host: Mostafa Al Agha.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>صدى الملاعب (2011)</eventName>	
+	<eventDescription>برنامج, مجلة رياضية, حوار/نقاش (المملكة العربية السعودية). تغطية لكافة الأخبار الرياضية في الشرق الأوسط و . . . تقديم: مصطفى الأغا.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 22:00:00</displayDateTime>
+			<activationDateTime>2015/09/29 22:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-187390800TrfK</siTrafficKey>
+			<detailKey>xpush-187390800DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Eight-Oclock</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Eight Oclock (2013)</eventName>	
+	<eventDescription>Show, People, Politics, Talk Show (Saudi Arabia). Do you wish to discuss a topic in front of millions of fans? You may have your wish granted with the opportunity to suggest hot topics of interest to the . . . Host: Dawod  Al Shoryan.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>الثامنة (2013)</eventName>	
+	<eventDescription>برنامج, إجتماعي, سياسة, برنامج حواري (المملكة العربية السعودية). هل في ذهنك موضوع تود مناقشته أمام ملايين . . . تقديم: داود الشريان.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 23:00:00</displayDateTime>
+			<activationDateTime>2015/09/29 23:00:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-187391568TrfK</siTrafficKey>
+			<detailKey>xpush-187391568DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Castle-Zahra</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Castle Zahra (2014)</eventName>	
+	<eventDescription>Serie, People, Drama (Turkey). Zahra is a 14 year old girl.  Despite being very successful in the school,  her father forced her to marry an old rich man for the sake of money.  She thus lives a miserable . . . Actor: Otmaca Dephrem, Orhan ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>زهرة القصر (2014)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (تركيا). يدمر والد زهرة ذات الرابعة عشر حياتها، و يحرمها من إستكمال دراستها على الرغم من . . . تمثيل: أتماكا ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/29 23:45:00</displayDateTime>
+			<activationDateTime>2015/09/29 23:45:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-187391664TrfK</siTrafficKey>
+			<detailKey>xpush-187391664DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>And-Hope-Still-Goes-</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>And Hope Still Goes On (2013)</eventName>	
+	<eventDescription>Serie, Romance, Drama (Turkey). A 23 year old girl works in a hair salon,  and has to give her salary to her unemployed stepfather,  but there's something that will turn her life upside down.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>ويبقى الأمل (2013)</eventName>	
+	<eventDescription>مسلسل, رومانسي, دراما (تركيا). فتاة تبلغ من العمر 23 عاماً، تعمل في صالون لتزيين الشعر، وتضطر أن تسلم راتبها لزوج . . . تمثيل: علي أركزان, ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 00:30:00</displayDateTime>
+			<activationDateTime>2015/09/30 00:30:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-187388016TrfK</siTrafficKey>
+			<detailKey>xpush-187388016DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Abdeen-Palace</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Abdeen Palace (2014)</eventName>	
+	<eventDescription>Serie, Biography, History, Drama (Egypt). The political tensions and incidents that are wondering around the castle,  as well as the competition between the palace maids to get the admiration of the . . . Actor: Yousra, Nelly  Karim, Ghada ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>سرايا عابدين (2014)</eventName>	
+	<eventDescription>مسلسل, سيرة ذاتية, تاريخ, دراما (مصر). الأحداث و التوترات السياسية التي تحوم حول السرايا خلال فترة حكم الخديوي . . . تمثيل: يسرا, نيللي   ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 01:15:00</displayDateTime>
+			<activationDateTime>2015/09/30 01:15:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-187388112TrfK</siTrafficKey>
+			<detailKey>xpush-187388112DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>My-Way</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>My Way (2015)</eventName>	
+	<eventDescription>Serie, People, Drama (Egypt). The young lady Dalela has only one dream which is to be a famous artist,  but this passion faces lots of obstacles set by her family refusing that way.  However,  she insists on attaining her ultimate dream ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>طريقي (2015)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (مصر). رحلة صعود الفتاة الأرستقراطية دليلة الى عالم الغناء متحدية جميع العقبات التي واجهتها ورفض أسرتها أن ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 02:00:00</displayDateTime>
+			<activationDateTime>2015/09/30 02:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-187388208TrfK</siTrafficKey>
+			<detailKey>xpush-187388208DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Eight-Oclock</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Eight Oclock (2013)</eventName>	
+	<eventDescription>Show, People, Politics, Talk Show (Saudi Arabia). Do you wish to discuss a topic in front of millions of fans? You may have your wish granted with the opportunity to suggest hot topics of interest to the . . . Host: Dawod  Al Shoryan.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>الثامنة (2013)</eventName>	
+	<eventDescription>برنامج, إجتماعي, سياسة, برنامج حواري (المملكة العربية السعودية). هل في ذهنك موضوع تود مناقشته أمام ملايين . . . تقديم: داود الشريان.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 03:00:00</displayDateTime>
+			<activationDateTime>2015/09/30 03:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-187388304TrfK</siTrafficKey>
+			<detailKey>xpush-187388304DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Echo-of-the-Stadiums</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Echo of the Stadiums (2011)</eventName>	
+	<eventDescription>Show, Sport magazine, Debate (Saudi Arabia). Famous sports magazine covering latest football games around the Arab region and in the world. Host: Mostafa Al Agha.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>صدى الملاعب (2011)</eventName>	
+	<eventDescription>برنامج, مجلة رياضية, حوار/نقاش (المملكة العربية السعودية). تغطية لكافة الأخبار الرياضية في الشرق الأوسط و . . . تقديم: مصطفى الأغا.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 04:00:00</displayDateTime>
+			<activationDateTime>2015/09/30 04:00:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-187388400TrfK</siTrafficKey>
+			<detailKey>xpush-187388400DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Yearning</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Yearning (2015)</eventName>	
+	<eventDescription>Serie, Comedy, People, Comedy (Egypt). An ambitious girl wants to be a famous actress.  She tries to find out someone to help her to make her dream come true.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>لهفة (2015)</eventName>	
+	<eventDescription>مسلسل, كوميدي, إجتماعي, كوميدي (مصر). فتاة طموحة ترغب طيلة حياتها بالعمل فى مجال التمثيل، تستعين بكل من تعرف لكي يساعدها فى مشوارها . . ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 04:30:00</displayDateTime>
+			<activationDateTime>2015/09/30 04:30:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-187388496TrfK</siTrafficKey>
+			<detailKey>xpush-187388496DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Genius</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Genius (2011)</eventName>	
+	<eventDescription>Serie, Comedy, Drama (Kuwait). Abo Khalifa is a kind social little doctor.  After his eldest son's marriage,  he decides to help him to live a descent life.  He bought him a shop as a gift. Actor: Tarek Al Ali, Mona Shdad. Director: Nomaan ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>الفلتة (2011)</eventName>	
+	<eventDescription>مسلسل, كوميدي, دراما (الكويت). بو خليفة رجل اجتماعي طيب يعمل بمهنة الطب الشعبي في علاج الناس، يقرر بعد زواج ابنه . . . تمثيل: طارق العلي, ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 05:00:00</displayDateTime>
+			<activationDateTime>2015/09/30 05:00:00</activationDateTime>
+			
+			
+<displayDuration>01:15:00</displayDuration>
+			<siTrafficKey>xpush-187388592TrfK</siTrafficKey>
+			<detailKey>xpush-187388592DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Heba,-The-Crow's-Leg</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Heba, The Crow's Leg (2014)</eventName>	
+	<eventDescription>Serie, Comedy, Romance, People, Comedy (Egypt). Heba is an ugly girl yet she is smart and hard worker.  She gets hired at one of the biggest fashion houses in Egypt as the CEO assistant.  There some people . . . Actor: Emy Samer Ghanem, ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>هبة رجل الغراب (2014)</eventName>	
+	<eventDescription>مسلسل, كوميدي, رومانسي, إجتماعي, كوميدي (مصر). فتاة بسيطة الحال قبيحة ولكن ذكية ومجتهدة في عملها، تعمل في أحد بيوت . . . تمثيل: إيمي سمير ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 06:15:00</displayDateTime>
+			<activationDateTime>2015/09/30 06:15:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-187387536TrfK</siTrafficKey>
+			<detailKey>xpush-187387536DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Abdeen-Palace</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Abdeen Palace (2014)</eventName>	
+	<eventDescription>Serie, Biography, History, Drama (Egypt). The political tensions and incidents that are wondering around the castle,  as well as the competition between the palace maids to get the admiration of the . . . Actor: Yousra, Nelly  Karim, Ghada ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>سرايا عابدين (2014)</eventName>	
+	<eventDescription>مسلسل, سيرة ذاتية, تاريخ, دراما (مصر). الأحداث و التوترات السياسية التي تحوم حول السرايا خلال فترة حكم الخديوي . . . تمثيل: يسرا, نيللي   ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 07:00:00</displayDateTime>
+			<activationDateTime>2015/09/30 07:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-187385904TrfK</siTrafficKey>
+			<detailKey>xpush-187385904DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>And-Hope-Still-Goes-</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>And Hope Still Goes On (2013)</eventName>	
+	<eventDescription>Serie, Romance, Drama (Turkey). A 23 year old girl works in a hair salon,  and has to give her salary to her unemployed stepfather,  but there's something that will turn her life upside down.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>ويبقى الأمل (2013)</eventName>	
+	<eventDescription>مسلسل, رومانسي, دراما (تركيا). فتاة تبلغ من العمر 23 عاماً، تعمل في صالون لتزيين الشعر، وتضطر أن تسلم راتبها لزوج . . . تمثيل: علي أركزان, ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 08:00:00</displayDateTime>
+			<activationDateTime>2015/09/30 08:00:00</activationDateTime>
+			
+			
+<displayDuration>02:00:00</displayDuration>
+			<siTrafficKey>xpush-187386000TrfK</siTrafficKey>
+			<detailKey>xpush-187386000DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Good-Morning-Arabs</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Good Morning Arabs (2011)</eventName>	
+	<eventDescription>Show, Morning Show, Talk Show (Saudi Arabia). Discussing different topics and issues,  which concern the Arab community,   especially women.  It also keeps you updated with the latest inventions and the . . . Host: Lojain Omran.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>صباح الخير يا عرب (2011)</eventName>	
+	<eventDescription>برنامج, برنامج صباحي, برنامج حواري (المملكة العربية السعودية). تغطية عامة لكافة إهتمامات الشارع العربي على . . . تقديم: لجين عمران.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 10:00:00</displayDateTime>
+			<activationDateTime>2015/09/30 10:00:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-187386096TrfK</siTrafficKey>
+			<detailKey>xpush-187386096DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Castle-Zahra</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Castle Zahra (2014)</eventName>	
+	<eventDescription>Serie, People, Drama (Turkey). Zahra is a 14 year old girl.  Despite being very successful in the school,  her father forced her to marry an old rich man for the sake of money.  She thus lives a miserable . . . Actor: Otmaca Dephrem, Orhan ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>زهرة القصر (2014)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (تركيا). يدمر والد زهرة ذات الرابعة عشر حياتها، و يحرمها من إستكمال دراستها على الرغم من . . . تمثيل: أتماكا ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 10:45:00</displayDateTime>
+			<activationDateTime>2015/09/30 10:45:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-187387632TrfK</siTrafficKey>
+			<detailKey>xpush-187387632DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Yearning</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Yearning (2015)</eventName>	
+	<eventDescription>Serie, Comedy, People, Comedy (Egypt). An ambitious girl wants to be a famous actress.  She tries to find out someone to help her to make her dream come true.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>لهفة (2015)</eventName>	
+	<eventDescription>مسلسل, كوميدي, إجتماعي, كوميدي (مصر). فتاة طموحة ترغب طيلة حياتها بالعمل فى مجال التمثيل، تستعين بكل من تعرف لكي يساعدها فى مشوارها . . ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 11:30:00</displayDateTime>
+			<activationDateTime>2015/09/30 11:30:00</activationDateTime>
+			
+			
+<displayDuration>00:15:00</displayDuration>
+			<siTrafficKey>xpush-187387728TrfK</siTrafficKey>
+			<detailKey>xpush-187387728DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>100-Richter</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>100 Richter (2015)</eventName>	
+	<eventDescription>Show, Comedy, Entertainment (Egypt). Young actor Khalid Elish hosts many actors and sport stars for a radio interview,  but the basic goal is easing them in comedy pranks full of excitement.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>100 ريختر (2015)</eventName>	
+	<eventDescription>برنامج, كوميدي, ترفيه (مصر). يستضيف الممثل الشاب خالد عليش نجوم الفن والرياضة من أجل مقابلة إذاعية، لكن الهدف الأساسي هو إستدراجهم ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 11:45:00</displayDateTime>
+			<activationDateTime>2015/09/30 11:45:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-187387824TrfK</siTrafficKey>
+			<detailKey>xpush-187387824DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Genius</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Genius (2011)</eventName>	
+	<eventDescription>Serie, Comedy, Drama (Kuwait). Abo Khalifa is a kind social little doctor.  After his eldest son's marriage,  he decides to help him to live a descent life.  He bought him a shop as a gift. Actor: Tarek Al Ali, Mona Shdad. Director: Nomaan ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>الفلتة (2011)</eventName>	
+	<eventDescription>مسلسل, كوميدي, دراما (الكويت). بو خليفة رجل اجتماعي طيب يعمل بمهنة الطب الشعبي في علاج الناس، يقرر بعد زواج ابنه . . . تمثيل: طارق العلي, ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 12:15:00</displayDateTime>
+			<activationDateTime>2015/09/30 12:15:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-187386960TrfK</siTrafficKey>
+			<detailKey>xpush-187386960DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>My-Way</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>My Way (2015)</eventName>	
+	<eventDescription>Serie, People, Drama (Egypt). The young lady Dalela has only one dream which is to be a famous artist,  but this passion faces lots of obstacles set by her family refusing that way.  However,  she insists on attaining her ultimate dream ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>طريقي (2015)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (مصر). رحلة صعود الفتاة الأرستقراطية دليلة الى عالم الغناء متحدية جميع العقبات التي واجهتها ورفض أسرتها أن ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 13:00:00</displayDateTime>
+			<activationDateTime>2015/09/30 13:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-187386192TrfK</siTrafficKey>
+			<detailKey>xpush-187386192DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>And-Hope-Still-Goes-</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>And Hope Still Goes On (2013)</eventName>	
+	<eventDescription>Serie, Romance, Drama (Turkey). A 23 year old girl works in a hair salon,  and has to give her salary to her unemployed stepfather,  but there's something that will turn her life upside down.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>ويبقى الأمل (2013)</eventName>	
+	<eventDescription>مسلسل, رومانسي, دراما (تركيا). فتاة تبلغ من العمر 23 عاماً، تعمل في صالون لتزيين الشعر، وتضطر أن تسلم راتبها لزوج . . . تمثيل: علي أركزان, ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 14:00:00</displayDateTime>
+			<activationDateTime>2015/09/30 14:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-187386288TrfK</siTrafficKey>
+			<detailKey>xpush-187386288DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Heba,-The-Crow's-Leg</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Heba, The Crow's Leg (2014)</eventName>	
+	<eventDescription>Serie, Comedy, Romance, People, Comedy (Egypt). Heba is an ugly girl yet she is smart and hard worker.  She gets hired at one of the biggest fashion houses in Egypt as the CEO assistant.  There some people . . . Actor: Emy Samer Ghanem, ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>هبة رجل الغراب (2014)</eventName>	
+	<eventDescription>مسلسل, كوميدي, رومانسي, إجتماعي, كوميدي (مصر). فتاة بسيطة الحال قبيحة ولكن ذكية ومجتهدة في عملها، تعمل في أحد بيوت . . . تمثيل: إيمي سمير ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 15:00:00</displayDateTime>
+			<activationDateTime>2015/09/30 15:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-187386384TrfK</siTrafficKey>
+			<detailKey>xpush-187386384DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Castle-Zahra</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Castle Zahra (2014)</eventName>	
+	<eventDescription>Serie, People, Drama (Turkey). Zahra is a 14 year old girl.  Despite being very successful in the school,  her father forced her to marry an old rich man for the sake of money.  She thus lives a miserable . . . Actor: Otmaca Dephrem, Orhan ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>زهرة القصر (2014)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (تركيا). يدمر والد زهرة ذات الرابعة عشر حياتها، و يحرمها من إستكمال دراستها على الرغم من . . . تمثيل: أتماكا ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 16:00:00</displayDateTime>
+			<activationDateTime>2015/09/30 16:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-187386480TrfK</siTrafficKey>
+			<detailKey>xpush-187386480DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Abdeen-Palace</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Abdeen Palace (2014)</eventName>	
+	<eventDescription>Serie, Biography, History, Drama (Egypt). The political tensions and incidents that are wondering around the castle,  as well as the competition between the palace maids to get the admiration of the . . . Actor: Yousra, Nelly  Karim, Ghada ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>سرايا عابدين (2014)</eventName>	
+	<eventDescription>مسلسل, سيرة ذاتية, تاريخ, دراما (مصر). الأحداث و التوترات السياسية التي تحوم حول السرايا خلال فترة حكم الخديوي . . . تمثيل: يسرا, نيللي   ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 17:00:00</displayDateTime>
+			<activationDateTime>2015/09/30 17:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-187387440TrfK</siTrafficKey>
+			<detailKey>xpush-187387440DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Eight-Oclock</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Eight Oclock (2013)</eventName>	
+	<eventDescription>Show, People, Politics, Talk Show (Saudi Arabia). Do you wish to discuss a topic in front of millions of fans? You may have your wish granted with the opportunity to suggest hot topics of interest to the . . . Host: Dawod  Al Shoryan.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>الثامنة (2013)</eventName>	
+	<eventDescription>برنامج, إجتماعي, سياسة, برنامج حواري (المملكة العربية السعودية). هل في ذهنك موضوع تود مناقشته أمام ملايين . . . تقديم: داود الشريان.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 18:00:00</displayDateTime>
+			<activationDateTime>2015/09/30 18:00:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-187386576TrfK</siTrafficKey>
+			<detailKey>xpush-187386576DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>MBC-NEWS</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>MBC NEWS</eventName>	
+	<eventDescription>News, Bulletin . Be the first to know about what's going on around the globe from politics,  sports,  weather and more.  (30')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>أخبار إم بي سي</eventName>	
+	<eventDescription>أخبار, نشرة أخبار . النافذة الأولى التي ستطلعك على كل ما يدور حول العالم من أخبار سياسية، اقتصادية، رياضية، جوية، وأكثر.  (30')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 18:30:00</displayDateTime>
+			<activationDateTime>2015/09/30 18:30:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-187386672TrfK</siTrafficKey>
+			<detailKey>xpush-187386672DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Yearning</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Yearning (2015)</eventName>	
+	<eventDescription>Serie, Comedy, People, Comedy (Egypt). An ambitious girl wants to be a famous actress.  She tries to find out someone to help her to make her dream come true.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>لهفة (2015)</eventName>	
+	<eventDescription>مسلسل, كوميدي, إجتماعي, كوميدي (مصر). فتاة طموحة ترغب طيلة حياتها بالعمل فى مجال التمثيل، تستعين بكل من تعرف لكي يساعدها فى مشوارها . . ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 19:00:00</displayDateTime>
+			<activationDateTime>2015/09/30 19:00:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-187387056TrfK</siTrafficKey>
+			<detailKey>xpush-187387056DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>100-Richter</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>100 Richter (2015)</eventName>	
+	<eventDescription>Show, Comedy, Entertainment (Egypt). Young actor Khalid Elish hosts many actors and sport stars for a radio interview,  but the basic goal is easing them in comedy pranks full of excitement.  (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>100 ريختر (2015)</eventName>	
+	<eventDescription>برنامج, كوميدي, ترفيه (مصر). يستضيف الممثل الشاب خالد عليش نجوم الفن والرياضة من أجل مقابلة إذاعية، لكن الهدف الأساسي هو إستدراجهم ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 19:30:00</displayDateTime>
+			<activationDateTime>2015/09/30 19:30:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-187387152TrfK</siTrafficKey>
+			<detailKey>xpush-187387152DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Genius</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Genius (2011)</eventName>	
+	<eventDescription>Serie, Comedy, Drama (Kuwait). Abo Khalifa is a kind social little doctor.  After his eldest son's marriage,  he decides to help him to live a descent life.  He bought him a shop as a gift. Actor: Tarek Al Ali, Mona Shdad. Director: Nomaan ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>الفلتة (2011)</eventName>	
+	<eventDescription>مسلسل, كوميدي, دراما (الكويت). بو خليفة رجل اجتماعي طيب يعمل بمهنة الطب الشعبي في علاج الناس، يقرر بعد زواج ابنه . . . تمثيل: طارق العلي, ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 20:00:00</displayDateTime>
+			<activationDateTime>2015/09/30 20:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-187386768TrfK</siTrafficKey>
+			<detailKey>xpush-187386768DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>My-Way</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>My Way (2015)</eventName>	
+	<eventDescription>Serie, People, Drama (Egypt). The young lady Dalela has only one dream which is to be a famous artist,  but this passion faces lots of obstacles set by her family refusing that way.  However,  she insists on attaining her ultimate dream ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>طريقي (2015)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (مصر). رحلة صعود الفتاة الأرستقراطية دليلة الى عالم الغناء متحدية جميع العقبات التي واجهتها ورفض أسرتها أن ... (45')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 21:00:00</displayDateTime>
+			<activationDateTime>2015/09/30 21:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-187386864TrfK</siTrafficKey>
+			<detailKey>xpush-187386864DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Echo-of-the-Stadiums</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Echo of the Stadiums (2011)</eventName>	
+	<eventDescription>Show, Sport magazine, Debate (Saudi Arabia). Famous sports magazine covering latest football games around the Arab region and in the world. Host: Mostafa Al Agha.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>صدى الملاعب (2011)</eventName>	
+	<eventDescription>برنامج, مجلة رياضية, حوار/نقاش (المملكة العربية السعودية). تغطية لكافة الأخبار الرياضية في الشرق الأوسط و . . . تقديم: مصطفى الأغا.  (90')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 22:00:00</displayDateTime>
+			<activationDateTime>2015/09/30 22:00:00</activationDateTime>
+			
+			
+<displayDuration>01:00:00</displayDuration>
+			<siTrafficKey>xpush-187387248TrfK</siTrafficKey>
+			<detailKey>xpush-187387248DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>Eight-Oclock</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>Eight Oclock (2013)</eventName>	
+	<eventDescription>Show, People, Politics, Talk Show (Saudi Arabia). Do you wish to discuss a topic in front of millions of fans? You may have your wish granted with the opportunity to suggest hot topics of interest to the . . . Host: Dawod  Al Shoryan.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>الثامنة (2013)</eventName>	
+	<eventDescription>برنامج, إجتماعي, سياسة, برنامج حواري (المملكة العربية السعودية). هل في ذهنك موضوع تود مناقشته أمام ملايين . . . تقديم: داود الشريان.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 23:00:00</displayDateTime>
+			<activationDateTime>2015/09/30 23:00:00</activationDateTime>
+			
+			
+<displayDuration>00:45:00</displayDuration>
+			<siTrafficKey>xpush-187387344TrfK</siTrafficKey>
+			<detailKey>xpush-187387344DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>The-Castle-Zahra</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>The Castle Zahra (2014)</eventName>	
+	<eventDescription>Serie, People, Drama (Turkey). Zahra is a 14 year old girl.  Despite being very successful in the school,  her father forced her to marry an old rich man for the sake of money.  She thus lives a miserable . . . Actor: Otmaca Dephrem, Orhan ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>زهرة القصر (2014)</eventName>	
+	<eventDescription>مسلسل, إجتماعي, دراما (تركيا). يدمر والد زهرة ذات الرابعة عشر حياتها، و يحرمها من إستكمال دراستها على الرغم من . . . تمثيل: أتماكا ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+				<SiEvent>
+			<displayDateTime>2015/09/30 23:45:00</displayDateTime>
+			<activationDateTime>2015/09/30 23:45:00</activationDateTime>
+			
+			
+<displayDuration>00:30:00</displayDuration>
+			<siTrafficKey>xpush-187387920TrfK</siTrafficKey>
+			<detailKey>xpush-187387920DtlK</detailKey>
+			<SiEventDetail>
+			<parentalRatingId>0</parentalRatingId>
+				<genreId>0</genreId>
+				<subGenreId>0</subGenreId>
+				<broadcasterDetail-1>7</broadcasterDetail-1>
+          		<broadcasterDetail-2>4</broadcasterDetail-2>
+          		<programKey>And-Hope-Still-Goes-</programKey>
+          		<SiEventDescription>
+								<displayLanguage>eng</displayLanguage>	<eventName>And Hope Still Goes On (2013)</eventName>	
+	<eventDescription>Serie, Romance, Drama (Turkey). A 23 year old girl works in a hair salon,  and has to give her salary to her unemployed stepfather,  but there's something that will turn her life upside down.  (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			
+          		<SiEventDescription>
+								<displayLanguage>ara</displayLanguage>	<eventName>ويبقى الأمل (2013)</eventName>	
+	<eventDescription>مسلسل, رومانسي, دراما (تركيا). فتاة تبلغ من العمر 23 عاماً، تعمل في صالون لتزيين الشعر، وتضطر أن تسلم راتبها لزوج . . . تمثيل: علي أركزان, ... (60')</eventDescription>
+</SiEventDescription>
+			
+			
+			</SiEventDetail></SiEvent>
+
+
+</SiEventSchedule>
+</BasicImport>
