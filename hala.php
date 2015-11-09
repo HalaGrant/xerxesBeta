@@ -1,4 +1,0 @@
-<?php
-
-echo "hala grant";
-?>
